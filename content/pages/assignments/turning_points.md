@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: eeeb66a9-5f4b-2b56-ce9d-282babc3aea3
 title: Turning Points
 uid: ca964053-d279-1227-ac5e-4c608e7a0378

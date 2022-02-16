@@ -5,12 +5,17 @@ description: The image above depicts all the homes where the "autobiographer" li
   Based on the information in the image, what do you think this person feels? Values?
   Is there anything that you would like to see in order to better understand this
   story?
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/695a21f1aa424bce364d2ff3e61d20f4_draw_yr_life_1.jpg
+file: /media/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/695a21f1aa424bce364d2ff3e61d20f4_draw_yr_life_1.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: draw_yr_life_1.jpg
 uid: 695a21f1-aa42-4bce-364d-2ff3e61d20f4

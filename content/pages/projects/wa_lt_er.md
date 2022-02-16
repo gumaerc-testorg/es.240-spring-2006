@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 7ca62c52-b610-4286-d4d1-b8e2c54b4c6e
 title: Wa*lt*er
 uid: 22ac1f3e-acad-945e-493a-d06169f8870d

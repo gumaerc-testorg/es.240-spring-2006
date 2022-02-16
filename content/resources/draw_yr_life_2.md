@@ -4,12 +4,17 @@ description: The visual autobiography above takes a very different approach to t
   previous one, much more narrative in style, like a story board leading from one
   event to the next. What do you think this says about how this person thinks of their
   history? What do you think is of value to this person?
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/ecc1721c96da8e3e4fe21ab5fa8f8d20_draw_yr_life_2.jpg
+file: /media/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/ecc1721c96da8e3e4fe21ab5fa8f8d20_draw_yr_life_2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: draw_yr_life_2.jpg
 uid: ecc1721c-96da-8e3e-4fe2-1ab5fa8f8d20

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7ca62c52-b610-4286-d4d1-b8e2c54b4c6e
 resourcetype: Image
 title: dressdown1a.jpg
 uid: 8aac7d4d-2ceb-6f55-d21e-dba28abbc227

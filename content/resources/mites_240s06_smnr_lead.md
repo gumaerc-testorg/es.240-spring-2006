@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eeeb66a9-5f4b-2b56-ce9d-282babc3aea3
 resourcetype: Document
 title: Tips for Running Interactive Seminars with a Creative Focus
 uid: 5ed15893-ebe7-7e5a-94ed-8bea7c0b049a

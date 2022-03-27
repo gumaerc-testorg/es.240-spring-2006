@@ -14,6 +14,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: eeeb66a9-5f4b-2b56-ce9d-282babc3aea3
 resourcetype: Image
 title: holocaust.jpg
 uid: 1456590a-5aa6-6233-9adc-69fafe98f3d9

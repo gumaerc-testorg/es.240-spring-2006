@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 7ca62c52-b610-4286-d4d1-b8e2c54b4c6e
 resourcetype: Image
 title: walter4.jpg
 uid: f9855bda-e544-eea8-bbf1-629e9e5c784a

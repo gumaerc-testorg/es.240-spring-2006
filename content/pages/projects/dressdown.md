@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,7 +16,7 @@ Final Project
 
 Dressdown by Mirat Shah
 
-![Photographic collage of the artist's clothing.]({{< resource_file 8aac7d4d-2ceb-6f55-d21e-dba28abbc227 >}})
+{{< resource 8aac7d4d-2ceb-6f55-d21e-dba28abbc227 >}}
 
 Photograph of Marat Shah's final project.
 

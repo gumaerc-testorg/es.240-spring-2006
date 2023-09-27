@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -15,7 +16,7 @@ Final Project
 
 Wa\*lt\*er by Youn-Jae Walter Song
 
-![A grid containing elements of the artist's life.]({{< resource_file 24a99f0a-fe2d-0d51-49fd-5e9ab9e0fffd >}})
+{{< resource 24a99f0a-fe2d-0d51-49fd-5e9ab9e0fffd >}}
 
 Photograph of Youn-Jae Walter Song's final project.
 

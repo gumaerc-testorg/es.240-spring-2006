@@ -3,7 +3,7 @@ content_type: resource
 description: The first time I can remember being introduced to the Holocaust was in
   fifth or sixth grade in English. We read a book that was about a boy in the holocaust.
   It really went deep for me and has always stuck with me.
-file: /ol-ocw-studio-app/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/1456590a5aa662339adc69fafe98f3d9_holocaust.jpg
+file: /courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/1456590a5aa662339adc69fafe98f3d9_holocaust.jpg
 file_size: 68528
 file_type: image/jpeg
 image_metadata:

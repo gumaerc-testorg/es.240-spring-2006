@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of Youn-Jae Walter Song's final project.
-file: /ol-ocw-studio-app/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/f9855bdae544eea8bbf1629e9e5c784a_walter4.jpg
+file: /courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/f9855bdae544eea8bbf1629e9e5c784a_walter4.jpg
 file_size: 55294
 file_type: image/jpeg
 image_metadata:

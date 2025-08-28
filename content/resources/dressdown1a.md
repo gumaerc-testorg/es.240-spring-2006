@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Photograph of Mirat Shah's final project.
-file: /courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/8aac7d4d2ceb6f55d21edba28abbc227_dressdown1a.jpg
+file: /ol-ocw-studio-app/courses/es-240-composing-your-life-exploration-of-self-through-visual-arts-and-writing-spring-2006/8aac7d4d2ceb6f55d21edba28abbc227_dressdown1a.jpg
 file_size: 54975
 file_type: image/jpeg
 image_metadata:
